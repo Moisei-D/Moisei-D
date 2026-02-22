@@ -35,4 +35,6 @@ When I’m not debugging or staring at a whiteboard, you’ll probably find me:
 
     Ask me about: Algorithms, C# syntax, or why board games are the ultimate test of friendship.
 
-    📫 Reach me: [(https://www.linkedin.com/in/daniel-moisei-692b15374/)]
+    📫 Reach me:  
+    **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisei-d/)
+    **Email:** [mr.danu2005@gmail.com](mailto:mr.danu2005@gmail.com)
