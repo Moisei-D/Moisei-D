@@ -1,40 +1,48 @@
-Hey, I'm Moisei! 👋
+# Hey, I'm Moisei! 👋 
 
-I'm a Software Engineering student currently in my 2nd year at the Technical University of Moldova (TUM). I’m a problem-solver at heart, fueled by the intersection of complex mathematics and elegant algorithms. Currently, I’m building my foundation in Fullstack Development while diving deep into the world of C#.
-🚀 What I’m Up To
+I'm a **Software Engineering student** currently in my 2nd year at the **Technical University of Moldova (TUM)**. I’m a problem-solver at heart, fueled by the intersection of complex mathematics and elegant algorithms. Currently, I’m building my foundation in Fullstack Development while diving deep into the world of C#.
 
-    🌱 Learning: Deep-diving into C# and the .NET ecosystem. I’m fascinated by its versatility for both backend and enterprise solutions.
+---
 
-    🔭 Working on: Expanding my Fullstack toolkit and refining my algorithmic thinking.
+### 🚀 What I’m Up To
 
-    🧠 Philosophy: If there’s a complex mathematical way to optimize it, I’m probably trying to implement it right now.
+* **🌱 Learning:** Deep-diving into **C# and the .NET ecosystem**. I’m fascinated by its versatility for both backend and enterprise solutions.
+* **🔭 Working on:** Expanding my Fullstack toolkit and refining my algorithmic thinking.
+* **🧠 Philosophy:** If there’s a complex mathematical way to optimize it, I’m probably trying to implement it right now.
 
-🛠 Tech Stack & Tools
+---
 
-    Languages: C#, JavaScript, Python (and a love-hate relationship with Calculus 😅)
+### 🛠 Tech Stack & Tools
 
-    Focus: Backend Logic, Algorithm Design, Fullstack Web Dev
+* **Languages:** C#, JavaScript, Python (and a love-hate relationship with Calculus 😅)
+* **Focus:** Backend Logic, Algorithm Design, Fullstack Web Dev
+* **Education:** BSc in Software Engineering @ TUM 🇲🇩
 
-    Education: BSc in Software Engineering @ TUM 🇲🇩
+---
 
-🎸 Beyond the Code
+### 🎸 Beyond the Code
 
 When I’m not debugging or staring at a whiteboard, you’ll probably find me:
 
-    Music: Shredding on the guitar or exploring new sounds.
+* **🎵 Music:** Shredding on the guitar or exploring new sounds.
+* **💪 Fitness:** Pushing limits at the gym. I also have a background in **BJJ**—I love the "human chess" aspect of martial arts.
+* **🎲 Social:** Hosting chill board game nights with friends. Strategy games are my go-to!
 
-    Fitness: Pushing limits at the gym. I also have a background in Brazilian Jiu-Jitsu (BJJ)—I love the "human chess" aspect of martial arts.
+---
 
-    Social: Hosting chill board game nights with friends. Strategy games are my go-to!
+### 💬 Let's Connect
 
-💬 Let's Connect
+* **🎂 Age:** 20
+* **🎯 Goal:** To build software that is as robust as a BJJ chokehold and as harmonious as a guitar solo.
+* **🤔 Ask me about:** Algorithms, C# syntax, or why board games are the ultimate test of friendship.
+* **📫 Reach me:**
 
-    Age: 20
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisei-d/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mr.danu2005@gmail.com)
 
-    Goal: To build software that is as robust as a BJJ chokehold and as harmonious as a guitar solo.
+---
 
-    Ask me about: Algorithms, C# syntax, or why board games are the ultimate test of friendship.
+### 📈 My GitHub Stats
 
-    📫 Reach me:  
-    **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moisei-d/)
-    **Email:** [mr.danu2005@gmail.com](mailto:mr.danu2005@gmail.com)
+![Moisei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moisei-D&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moisei-D&layout=compact&theme=radical)
