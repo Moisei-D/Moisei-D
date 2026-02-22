@@ -44,5 +44,5 @@ When I’m not debugging or staring at a whiteboard, you’ll probably find me:
 
 ### 📈 My GitHub Stats
 
-![Moisei's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moisei-D&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Moisei-D&layout=compact&theme=radical)
+![Moisei's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moisei-D&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moisei-D&layout=compact&theme=radical)
