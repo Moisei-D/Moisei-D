@@ -1,4 +1,4 @@
-# Hey, I'm Moisei! 👋 
+# Hey, I'm Daniel! 👋 
 
 I'm a **Software Engineering student** currently in my 2nd year at the **Technical University of Moldova (TUM)**. I’m a problem-solver at heart, fueled by the intersection of complex mathematics and elegant algorithms. Currently, I’m building my foundation in Fullstack Development while diving deep into the world of C#.
 
@@ -44,5 +44,5 @@ When I’m not debugging or staring at a whiteboard, you’ll probably find me:
 
 ### 📈 My GitHub Stats
 
-![Moisei's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moisei-D&show_icons=true&theme=radical)
+![Daniel's GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=Moisei-D&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Moisei-D&layout=compact&theme=radical)
